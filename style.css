@@ -25,11 +25,10 @@ body{
 
 .grid {
     display: grid;
-    grid-template-columns: 50fr 50fr;
+    grid-template-columns: 1fr 1fr;
     text-align: center;
     grid-gap: 5px;
     background: #e2e2e2;
-    ;
 }
 
 .grid-item {
